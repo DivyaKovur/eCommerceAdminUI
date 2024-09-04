@@ -1,0 +1,26 @@
+[{
+    "lbl":"UserName",
+    "type":"Text",
+    "name":"Uid",
+    "ErrorMsg":"Please enter UserName",
+    "lblCols":"5",
+    "inputCols":"3",
+    "ErrorMsgCols":"4",
+    "hasError":false,
+    "value":"",
+    "isRequired":true
+
+},
+{
+    "lbl":"Password",
+    "type":"password",
+    "name":"pwd",
+    "ErrorMsg":"Please enter correct password",
+    "lblCols":"5",
+    "inputCols":"3",
+    "ErrorMsgCols":"4",
+    "hasError":false,
+    "value":"",
+    "isRequired":true
+
+}]
